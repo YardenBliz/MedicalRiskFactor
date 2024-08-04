@@ -1,8 +1,6 @@
 # Medical Risk Factor Project
 
 
-# Medical Risk Factor
-
 ## Description
 
 The Medical Risk Factor project, is an in-depth analysis and machine learning application developed to assess and predict medical risks based on patient data. The project leverages Python and its robust data science libraries to preprocess, analyze, and model health-related data, ultimately aiming to classify patient statuses and identify key health indicators.
